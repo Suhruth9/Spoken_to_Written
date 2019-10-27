@@ -14,6 +14,7 @@ A small library for converting text in spoken format to written format.
 
 1. Convert first letter of Nouns to Upper Case. Use NLTK Parts of Speech tagging to recognise nouns.
 2. Write the text converted to Written format in to a new file.
+3. Add documentation for the implemented functions so that users can decide the rules to use.
 
 # Instructions to Use
 
