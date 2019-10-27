@@ -1,4 +1,4 @@
-from Spoken_to_Written.processing_text import process
+from spoken2written.processing_text import process
 
 
 
