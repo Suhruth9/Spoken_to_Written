@@ -14,3 +14,17 @@
 2. Write the text in Written format in to a new file.
 
 # Instructions to Use
+
+1. Download the repository
+2. run
+```
+python setup.py install
+
+```
+3. To use
+```
+from spoken2written.agn import *
+
+read_and_process("text_file_path")
+
+```
