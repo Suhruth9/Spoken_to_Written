@@ -16,12 +16,12 @@
 # Instructions to Use
 
 1. Download the repository
-2. run
+2. run the command
 ```
 python setup.py install
 
 ```
-3. To use
+3. To use the library
 ```
 from spoken2written.agn import *
 
