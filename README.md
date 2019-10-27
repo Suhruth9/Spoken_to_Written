@@ -1,4 +1,6 @@
-# Spoken_to_Written
+# Spoken2Written
+
+A small library for converting text in spoken format to written format. 
 
 # Features Implemented
 
