@@ -3,7 +3,7 @@
 # Features Implemented
 
 1. All the numbers in words are converted into digits.
-2. Abbrevations are converted into thier proper form. (eg: C M - CM)
+2. Abbrevations are converted into their proper form. (eg: C M - CM)
 3. Words like Triple A, Double P converted to AAA, PP.
 4. Currency words converted to Currency Signs. (eg: 2 dollars to $2) - Only implemented for Dollars. Other currency symbols can be added easily
 
