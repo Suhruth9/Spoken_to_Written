@@ -11,7 +11,7 @@
 # Features to-be implemented
 
 1. Convert first letter of Nouns to Upper Case. Use NLTK Parts of Speech tagging to recognise nouns.
-2. Write the text in Written format in to a new file.
+2. Write the text converted to Written format in to a new file.
 
 # Instructions to Use
 
